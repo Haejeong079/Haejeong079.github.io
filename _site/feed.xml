@@ -4,16 +4,16 @@
   <id>http://localhost:4000/</id>
   <title>HJ의 개발일지</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-08-09T10:05:54+09:00</updated>
+  <updated>2024-08-09T13:55:17+09:00</updated>
   <author>
-    <name>your_full_name</name>
+    <name>YangHaeJeong</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
-  <rights> © 2024 your_full_name </rights>
+  <rights> © 2024 YangHaeJeong </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
