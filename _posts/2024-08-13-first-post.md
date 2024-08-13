@@ -2,7 +2,7 @@
 layout: post
 title : 첫 블로그 포스팅 여정기 1
 date: 2024-08-13 12:00:00 +0900
-categories: Blogging, First_Start
+categories: [Blogging, First_Start]
 tags: [getting started]
 
 ---
